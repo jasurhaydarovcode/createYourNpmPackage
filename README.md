@@ -1,6 +1,6 @@
 <div align=center>
 
-# creteYourNpmPackage
+# createYourNpmPackage
 
 ### Repo copyright created by [Jasurbek Haydarov](https://github.com/jasurhaydarovcode)
 
